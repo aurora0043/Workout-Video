@@ -1,0 +1,8 @@
+{
+  "name": "Airtable Workout PWA",
+  "description": "A PWA that integrates with Airtable to display and check off daily workout videos.",
+  "requestFramePermissions": [
+    "screen-wake-lock"
+  ],
+  "majorCapabilities": []
+}
